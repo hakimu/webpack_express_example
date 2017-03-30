@@ -1,0 +1,9 @@
+{
+  "name" : "webpack_express_example",
+  "version" : "0.0.1",
+  "private" : true,
+  "dependencies" : {
+    "newrelic":"*",
+    "express": "~4.0.0"
+  }
+}
