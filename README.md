@@ -1,5 +1,6 @@
 When I run `webpack` I see...
 
+```
 hakimu-mbp:webpack_express_example hakimu$ webpack
 Hash: d62ddd418d54671f6630
 Version: webpack 2.3.2
@@ -45,3 +46,4 @@ You may need an appropriate loader to handle this file type.
  @ ./~/express/index.js
  @ ./app.js
  @ multi ./app.js
+ ```
